@@ -59,6 +59,6 @@ aws sts get-caller-identity
 # Optional: List S3 buckets to confirm permissions
 echo "Listing S3 buckets..."
 aws s3 ls
-
+# just nothing
 
 
